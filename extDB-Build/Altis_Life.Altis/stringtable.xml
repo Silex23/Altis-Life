@@ -694,6 +694,11 @@
 			<Italian>Non puoi espellerti da solo!</Italian>
 			<Portuguese>Você não pode kickar você mesmo!</Portuguese>
 		</Key>
+		<Key ID="STR_GNOTF_InviteSelf">
+			<Original>You cannot invite yourself!</Original>
+			<English>You cannot invite yourself!</English>
+			<German>Du kannst dich nicht selber inviten!</German>
+		</Key>
 		<Key ID="STR_GNOTF_MaxSlot">
 			<Original>Your gang has reached its maximum allowed slots, please upgrade your gangs slot limit.</Original>
 			<English>Your gang has reached its maximum allowed slots, please upgrade your gangs slot limit.</English>
